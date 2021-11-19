@@ -1,0 +1,8 @@
+sklearn
+re
+os
+pickle
+flask 
+wtforms
+sqlite3
+numpy
