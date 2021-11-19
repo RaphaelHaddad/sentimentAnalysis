@@ -1,5 +1,4 @@
 sklearn
-os
 pickle
 flask 
 wtforms
